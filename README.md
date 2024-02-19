@@ -12,11 +12,11 @@ Hi there 👋, I'm Owen! I recently graduated with a B.S. in Computer Science fr
 - **Uline (Associate SWE):** Modernizing microservices for container migration and implementing liveness/readiness probes.
 
 ### Internships
-- **Uline:** Developed and deployed a full-stack internal resource allocation tool using Java, Spring Boot, Angular, TypeScript,
+- **Uline (SWE Intern):** Developed and deployed a full-stack internal resource allocation tool using Java, Spring Boot, Angular, TypeScript,
 CSS, and HTML, improving internal workflows by over 2x.
-- **Options Clearing Corporation:** Designed and implemented Splunk queries and customized dashboard, translating complex data events into
+- **Options Clearing Corporation (Sec Eng Intern):** Designed and implemented Splunk queries and customized dashboard, translating complex data events into
 actionable insights and enhancing security threat detection.
-- **Zurich North America:** Assessed critical IT controls, focusing mainly on Data Loss Prevention and Data Privacy.
+- **Zurich North America (IT Audit Intern):** Assessed critical IT controls, focusing mainly on Data Loss Prevention and Data Privacy.
 
 ## 📚 Education
 - B.S. in Computer Science from UIC College of Engineering, with coursework in Data Structures, AI, System Design, and Computer Vision.
