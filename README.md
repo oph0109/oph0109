@@ -9,7 +9,13 @@ Hi there 👋, I'm Owen! I recently graduated with a B.S. in Computer Science fr
 
 ## 💼 Experience
 - **Uline:** Modernizing microservices for container migration and implementing liveness/readiness probes.
-- **Internships:** Developed a full-stack internal resource allocation tool and improved security threat detection at Options Clearing Corporation.
+
+### Internships
+- **Uline:** Developed and deployed a full-stack internal resource allocation tool using Java, Spring Boot, Angular, TypeScript,
+CSS, and HTML, improving internal workflows by over 2x.
+- **Options Clearing Corporation:** Designed and implemented Splunk queries and customized dashboard, translating complex data events into
+actionable insights and enhancing security threat detection.
+- **Zurich North America:** Assessed critical IT controls, focusing mainly on Data Loss Prevention and Data Privacy.
 
 ## 📚 Education
 - B.S. in Computer Science from UIC College of Engineering, with coursework in Data Structures, AI, System Design, and Computer Vision.
@@ -22,5 +28,5 @@ Feel free to check out my repositories and don't hesitate to reach out for colla
 📫 **Contact Me:**
 - Email: owen.hirschey@gmail.com
 - LinkedIn: [owen-hirschey](https://linkedin.com/in/owen-hirschey-1aa8ba18a/)
-- Portfolio Website: [owen-hirschey](http://owen-hirschey.me)
+- Portfolio Website: [owen-hirschey.me](http://owen-hirschey.me)
 
