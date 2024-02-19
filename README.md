@@ -22,7 +22,7 @@ actionable insights and enhancing security threat detection.
 - B.S. in Computer Science from UIC College of Engineering, with coursework in Data Structures, AI, System Design, and Computer Vision.
 
 ## 🚀 Projects
-- **[Ticketing System](https://github.com/oph0109/ticketing-system):** A full-stack application using Spring Boot, Angular.js, and Tailwind CSS.
+- **[Ticketing System](https://github.com/oph0109/ticketing-system):** A full-stack ticketing application using Spring Boot, Angular.js, and Tailwind CSS.
 - **[My Portfolio Website](https://github.com/oph0109/portfolio_website):** My simple portfolio website with graphics using Three.js, packaged with vite
 - **[Decision Tree Learning](https://github.com/oph0109/decision-tree-learning):** Introductory ML learning with decision trees, made in Python
 
