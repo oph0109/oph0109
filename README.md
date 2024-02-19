@@ -9,7 +9,7 @@ Hi there 👋, I'm Owen! I recently graduated with a B.S. in Computer Science fr
 
 ## 💼 Experience
 ### Internships
-- **Uline (Associate Software Engineer):** Modernizing microservices for container migration and implementing liveness/readiness probes.
+- **Uline:** Modernizing microservices for container migration and implementing liveness/readiness probes.
 
 ### Internships
 - **Uline:** Developed and deployed a full-stack internal resource allocation tool using Java, Spring Boot, Angular, TypeScript,
