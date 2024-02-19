@@ -8,10 +8,7 @@ Hi there 👋, I'm Owen! I recently graduated with a B.S. in Computer Science fr
 - **DevOps:** Kubernetes, Docker, Jenkins
 
 ## 💼 Experience
-### Jobs
-- **Uline (Associate SWE):** Modernizing microservices for container migration and implementing liveness/readiness probes.
-
-### Internships
+- **Uline (Associate SWE):** Modernizing microservices for container migration and implementing features into our common dependencies
 - **Uline (SWE Intern):** Developed and deployed a full-stack internal resource allocation tool using Java, Spring Boot, Angular, TypeScript,
 CSS, and HTML, improving internal workflows by over 2x.
 - **Options Clearing Corporation (Sec Eng Intern):** Designed and implemented Splunk queries and customized dashboard, translating complex data events into
