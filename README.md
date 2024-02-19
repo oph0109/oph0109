@@ -23,6 +23,8 @@ actionable insights and enhancing security threat detection.
 
 ## 🚀 Projects
 - **[Ticketing System](https://github.com/oph0109/ticketing-system):** A full-stack application using Spring Boot, Angular.js, and Tailwind CSS.
+- **[My Portfolio Website](https://github.com/oph0109/portfolio_website):** My simple portfolio website with graphics using Three.js, packaged with vite
+- **[Decision Tree Learning](https://github.com/oph0109/decision-tree-learning):** Introductory ML learning with decision trees, made in Python
 
 Feel free to check out my repositories and don't hesitate to reach out for collaboration or any interesting opportunities!
 
